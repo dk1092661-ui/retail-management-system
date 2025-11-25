@@ -1,42 +1,48 @@
-# Retail Management System
+# 🛒 Retail Management System  
+A modern desktop-based Retail Management System built using **Python**, **Tkinter**, **CustomTkinter**, **SQLite**, and **Matplotlib**.  
+It provides a clean and responsive UI to manage inventory, record sales, and visualize data in real time.
 
-A modern Retail Management System built with **Python**, **CustomTkinter**, **SQLite**, and **Matplotlib**.
+---
 
-## Features
-- Inventory CRUD
-- Sales tracking and billing
-- Reports with Weekly/Monthly charts
-- Clean sidebar layout
-- Modern dark UI
+## 🚀 Features
 
-## Installation
-```bash
-git clone https://github.com/dk1092661-ui/retail-management-system.git
-cd retail-management-system
-python -m venv .venv
-# Windows PowerShell:
-.venv\Scripts\Activate.ps1
-# Windows CMD:
-.venv\Scripts\activate.bat
-pip install -r requirements.txt
-python -m app.gui.main_app
+### 📦 Inventory Management
+- Add new products  
+- Update existing stock  
+- Delete products  
+- Manage product categories  
+- Clean and intuitive UI layout  
 
-# Screenshots
+### 💰 Sales Management
+- Submit sales for any product  
+- Automatically updates stock  
+- Displays today's sales  
 
-## Dashboard
-![Dashboard](assests/dashboard.png)
+### 📊 Reporting & Insights
+- Today's Sales  
+- Weekly Sales  
+- Monthly Sales  
+- Graph visualizations using Matplotlib  
 
-## Inventory Management
-![Inventory](assests/inventory.png)
+### 🎨 Modern UI
+- Built entirely with **CustomTkinter**  
+- Dark theme  
+- Sidebar navigation  
+- Smooth layout and spacing  
 
-## Monthly Report
-![Monthly](assests/monthly.png)
+---
 
-## Reports
-![Reports](assests/reports.png)
+## 🛠️ Technologies Used
+- **Python 3**
+- **Tkinter / CustomTkinter**
+- **SQLite Database**
+- **Matplotlib**
+- **Object-Oriented Programming (OOP)**
 
-## Sales Summary
-![Sales](assests/sales.png)
+---
 
-## Weekly Overview
-![Weekly](assests/weekly.png)
+## 📥 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/retail-management-system.git

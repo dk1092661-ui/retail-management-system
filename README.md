@@ -1,73 +1,77 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00A8FF&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Md+Danish+👋;Python+Developer+%7C+Backend+Enthusiast;Always+Learning+New+Things+🚀;Welcome+to+my+GitHub+Profile!" />
-</p>
+# 🛒 Retail Management System
+
+A fully functional **Desktop-Based Retail Management System** developed using **Python**, **CustomTkinter**, **SQLite**, and **Matplotlib**.  
+This application is designed to efficiently manage **inventory, sales operations, and business analytics** with a modern and intuitive user interface.
 
 ---
 
-## 🧑‍💻 About Me
+## 📖 Overview
 
-✨ I'm **Md Danish**, a passionate **Python Developer** who loves building useful applications with clean UI and smooth functionality.  
-💻 Recently created a **Retail Management System** using Python, Tkinter, SQLite & Matplotlib.  
-🌱 Currently improving skills in **Backend Development**, **APIs**, and **Automation**.  
-🎯 Goal: Create meaningful software & grow as a developer.  
+The **Retail Management System** is a lightweight yet powerful desktop application that helps small businesses and retail stores automate daily operations such as:
 
----
+- Product inventory tracking  
+- Sales management  
+- Automated stock updates  
+- Visual business performance reports  
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,windows,figma,cpp" />
-</p>
+The system is built with a focus on **usability, performance, and clean architecture** using Object-Oriented Programming.
 
 ---
 
-## 🚀 Featured Project
+## ✨ Key Features
 
-### 🛒 **Retail Management System**
-A modern desktop-based system to manage inventory, sales, and reports.
+### 🔹 Inventory Management
+- Add, update, and delete products  
+- Manage stock levels in real time  
+- Categorize products efficiently  
 
-🔧 **Tech:** Python, Tkinter, CustomTkinter, SQLite, Matplotlib  
-🔗 **Repo:** https://github.com/dk1092661-ui/retail-management-system
+### 🔹 Sales Management
+- Process product sales  
+- Automatic stock reduction after each sale  
+- Real-time display of daily revenue  
 
----
+### 🔹 Reports & Analytics
+- Daily sales summary  
+- Weekly sales report  
+- Monthly sales report  
+- Interactive charts using Matplotlib  
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dk1092661-ui&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk1092661-ui&theme=radical&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dk1092661-ui&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🎨 Aesthetic Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Tkinter-UI%20Builder-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-Database-lightgrey?style=for-the-badge&logo=sqlite" />
-  <img src="https://img.shields.io/badge/CustomTkinter-Modern%20UI-green?style=for-the-badge" />
-</p>
+### 🔹 User Interface
+- Developed using **CustomTkinter**
+- Modern dark UI theme
+- Sidebar-based navigation
+- Smooth and responsive layout
 
 ---
 
-## 🌐 Connect With Me
+## 🖼️ Application Preview
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="50px" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50px" /></a>
-</p>
+| Dashboard | Inventory |
+|----------|-----------|
+| ![Dashboard](assets/dashboard.png) | ![Inventory](assets/inventory.png) |
+
+| Sales | Reports |
+|------|---------|
+| ![Sales](assets/sales.png) | ![Reports](assets/reports.png) |
+
+| Weekly Report | Monthly Report |
+|---------------|----------------|
+| ![Weekly](assets/weekly.png) | ![Monthly](assets/monthly.png) |
 
 ---
 
-## ⭐ Fun Fact
-> “Great software is built by those who don’t fear to start small.” 🚀
+## 🛠️ Technologies & Tools
+
+- **Python 3**
+- **Tkinter / CustomTkinter**
+- **SQLite Database**
+- **Matplotlib**
+- **Object-Oriented Programming (OOP)**
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+## ⚙️ Installation & Setup (Windows)
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/dk1092661-ui/retail-management-system.git
